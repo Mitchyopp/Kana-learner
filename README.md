@@ -1,6 +1,6 @@
 # A basic kana checker!
 
-!> [!NOTE]
+> [!NOTE]
 > Currently only supports Hiragana & it's dakuten.
 > Make sure you have `git` & `rust` installed.
 
